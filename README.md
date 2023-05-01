@@ -25,7 +25,7 @@
 # 📖 [Hello-Microverse] <a name="about-project"></a>
 > this is my first microverse hello world and technical project!
 
-**[Hello-Microverse]** is a first project in microverse platform!
+**[Hello-Microverse]** is my first project in microverse platform!
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -34,18 +34,15 @@
 <details>
   <summary>HTML File</summary>
   <ul>
-    <li><a href="https://github.com/feyisakedir/Hello-World/blob/main/gitignore/index.html">index.html</a></li>
+    <li><a href="https://github.com/feyisakedir/Hello-Microverse-1st-Project/blob/main/gitignore/index.html">index.html</a></li>
   </ul>
 </details>
-
 <details>
   <summary>CSS File</summary>
   <ul>
-    <li><a href="https://github.com/feyisakedir/Hello-World/blob/main/gitignore/styles.css">style.css</a></li>
+    <li><a href="https://github.com/feyisakedir/Hello-Microverse-1st-Project/blob/main/gitignore/styles.css">style.css</a></li>
   </ul>
 </details>
-
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 💻 Getting Started <a name="getting-started"></a>
@@ -57,9 +54,6 @@
   git clone https://github.com/feyisakedir/Hello-World.git
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- AUTHORS -->
-
 ## 👥 Authors <a name="authors"></a>
 
 👤 **Author1**
@@ -80,8 +74,6 @@
 - Social media integration would allow users to share their personalized greeting message on their social media profiles. This could be done by adding a "Share" button   that generates a link or image of the greeting message, which users could then post on their social media profiles for their friends and followers to see.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- CONTRIBUTING -->
-
 ## 🤝 Contributing <a name="contributing"></a>
 
 Contributions, issues, and feature requests are welcome!
@@ -90,16 +82,12 @@ Feel free to check the [issues page](../../issues/).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- SUPPORT -->
-
 ## ⭐️ Show your support <a name="support"></a>
 
 If you like this project you can participate in the project to add future featurs of the project.
 It is open project for support.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- ACKNOWLEDGEMENTS -->
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
