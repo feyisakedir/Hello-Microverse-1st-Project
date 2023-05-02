@@ -23,11 +23,11 @@
 - [❓ FAQ (OPTIONAL)](#faq)
 
 
-# 📖 [Hello-Microverse] <a name="about-project"></a>
+# 📖 [About the Project] <a name="about-project"></a>
 > this is my first microverse hello world and technical project!
 
-**[Hello-Microverse]** is a first project in microverse platform!
-
+**[Hello-Microverse]** is a first project for me in microverse platform! In this project, I practice lot of things 
+to update github knwoledge and coding part.
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
@@ -35,14 +35,14 @@
 <details>
   <summary>HTML File</summary>
   <ul>
-    <li><a href="https://github.com/feyisakedir/Hello-World/blob/main/gitignore/index.html">index.html</a></li>
+    <li><a href="https://github.com/feyisakedir/Hello-Microverse-1st-Project/blob/main/index.html</a></li>
   </ul>
 </details>
 
 <details>
   <summary>CSS File</summary>
   <ul>
-    <li><a href="https://github.com/feyisakedir/Hello-World/blob/main/gitignore/styles.css">style.css</a></li>
+    <li><a href="https://github.com/feyisakedir/Hello-Microverse-1st-Project/blob/main/gitignore/styles.css">style.css</a></li>
   </ul>
 </details>
 
