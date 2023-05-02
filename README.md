@@ -25,7 +25,7 @@
 # 📖 [Hello-Microverse] <a name="about-project"></a>
 > this is my first microverse hello world and technical project!
 
-**[Hello-Microverse]** is my first project in microverse platform!
+**[Hello-Microverse]** is a first project in microverse platform!
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -34,26 +34,38 @@
 <details>
   <summary>HTML File</summary>
   <ul>
-    <li><a href="https://github.com/feyisakedir/Hello-Microverse-1st-Project/blob/main/gitignore/index.html">index.html</a></li>
+    <li><a href="https://github.com/feyisakedir/Hello-World/blob/main/gitignore/index.html">index.html</a></li>
   </ul>
 </details>
+
 <details>
   <summary>CSS File</summary>
   <ul>
-    <li><a href="https://github.com/feyisakedir/Hello-Microverse-1st-Project/blob/main/gitignore/styles.css">style.css</a></li>
+    <li><a href="https://github.com/feyisakedir/Hello-World/blob/main/gitignore/styles.css">style.css</a></li>
   </ul>
 </details>
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+### Key Features <a name="key-features"></a>
+
+- **[Output: ]**
+   - The program will output the phrase "Hello, World!" to the screen or console. This is usually done using a print statement or similar command that sends the tex 
+   to the standard output.
+- **[Minimalist code]**
+   - The "Hello, World!" program is typically very simple and short. It often consists of just a few lines of code and doesn't require any complex logic or data    structures.
+- **[Easy to understand: ]**
+   - Because of its simplicity, the "Hello, World!" program is easy to understand and can be used to demonstrate basic programming concepts like variables, functions, and control structures. It is often the first program that beginners write when learning a new programming language.
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 ## 💻 Getting Started <a name="getting-started"></a>
 
-- To get a local copy up and running, follow these steps.
-- Install Git Bash
-- then type the following command to pull the project into your local repo
+### Setup
+- Clone this repository to your desired folder:
   cd Microver-project
   git clone https://github.com/feyisakedir/Hello-World.git
+  
+- Intall HTML and CSS editor tool like:- VISUAL STUDIO CODE
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 ## 👥 Authors <a name="authors"></a>
 
 👤 **Author1**
@@ -74,6 +86,7 @@
 - Social media integration would allow users to share their personalized greeting message on their social media profiles. This could be done by adding a "Share" button   that generates a link or image of the greeting message, which users could then post on their social media profiles for their friends and followers to see.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+
 ## 🤝 Contributing <a name="contributing"></a>
 
 Contributions, issues, and feature requests are welcome!
@@ -82,12 +95,15 @@ Feel free to check the [issues page](../../issues/).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+
 ## ⭐️ Show your support <a name="support"></a>
 
 If you like this project you can participate in the project to add future featurs of the project.
 It is open project for support.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- ACKNOWLEDGEMENTS -->
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
@@ -101,8 +117,8 @@ I would like to thanks all microverse teams for this chance
 
   - [Intall HTML and CSS editor tool like:- VISUAL STUDIO CODE]
 
-- **[the CSS file is not working]**
+- **[what is the output of this project]**
 
-  - [make sure that you pull both HTML and CSS fill into your local repo]
+  - [The program will output the phrase "Hello, World!" to the screen.]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
