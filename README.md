@@ -55,8 +55,11 @@
 - **[Easy to understand: ]**
    - Because of its simplicity, the "Hello, World!" program is easy to understand and can be used to demonstrate basic programming concepts like variables, functions, and control structures. It is often the first program that beginners write when learning a new programming language.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 ## 💻 Getting Started <a name="getting-started"></a>
 
+ - to run this project, please follow steps under ### setup section
+ 
 ### Setup
 - Clone this repository to your desired folder:
   cd Microver-project
@@ -102,8 +105,6 @@ If you like this project you can participate in the project to add future featur
 It is open project for support.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- ACKNOWLEDGEMENTS -->
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
