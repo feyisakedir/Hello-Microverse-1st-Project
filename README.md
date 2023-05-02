@@ -63,8 +63,7 @@
  
 ### Setup
 - Clone this repository to your desired folder:
-  cd Microver-project
-  git clone https://github.com/feyisakedir/Hello-World.git
+- git clone https://github.com/feyisakedir/Hello-Microverse-1st-Project.git
   
 - Intall HTML and CSS editor tool like:- VISUAL STUDIO CODE
 
